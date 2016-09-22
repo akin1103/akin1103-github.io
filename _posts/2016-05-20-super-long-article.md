@@ -1,7 +1,7 @@
 ---
 layout: post
 image: work-1.jpg
-cate: Websites
+cate: A
 title: "Some articles are just so long they deserve a really long title to see if things will break well"
 ---
 
