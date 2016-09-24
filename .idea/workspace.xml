@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f523880d-b8ad-433f-88c1-5ffa7b489871" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/wrapper-img.png" />
     </list>
     <ignored path="airspace-jekyll-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            <state relative-caret-position="300">
+              <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -149,8 +149,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="419" />
-    <option name="y" value="94" />
+    <option name="x" value="341" />
+    <option name="y" value="90" />
     <option name="width" value="1052" />
     <option name="height" value="654" />
   </component>
@@ -411,7 +411,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="419" y="94" width="1052" height="654" extended-state="0" />
+    <frame x="341" y="90" width="1052" height="654" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27376425" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -782,8 +782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
           <folding />
         </state>
       </provider>
