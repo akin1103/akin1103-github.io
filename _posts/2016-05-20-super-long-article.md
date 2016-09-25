@@ -1,6 +1,6 @@
 ---
 layout: post
-image: work-1.jpg
+image: work-2.jpg
 cate: A
 title: "Some articles are just so long they deserve a really long title to see if things will break well"
 ---
