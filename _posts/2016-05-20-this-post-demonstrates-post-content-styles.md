@@ -3,8 +3,8 @@ layout: post
 title: "This post demonstrates post content styles"
 author: "Bart Simpson"
 meta: "Springfield"
-image: work-3.jpg
-cate: C
+image: 鳳梨.jpg
+cate: 鳳梨
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
