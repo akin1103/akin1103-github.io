@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f523880d-b8ad-433f-88c1-5ffa7b489871" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-    </list>
+    <list default="true" id="f523880d-b8ad-433f-88c1-5ffa7b489871" name="Default" comment="" />
     <ignored path="airspace-jekyll-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
